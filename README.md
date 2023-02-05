@@ -6,4 +6,7 @@ Vertical platformer made for 2023 GGJ. With a theme of "Roots", we have designed
 
 Made in UE5 with the PaperZD Plugin
 
+Itch.io link
+https://andydalaimo.itch.io/burrow
+
 Art by Birgithe Runde
