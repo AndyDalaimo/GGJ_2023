@@ -1,8 +1,7 @@
-# GGJ_2023
+# GGJ_2023 - Burrow
  
-Burrow
-
-Vertical platformer made for 2023 GGJ. With a theme of "Roots", we have designed a 2D Pixel-Art platformer where the player moves downward. 
+ 
+Burrow is a vertical platformer made for 2023 GGJ. With a theme of "Roots", we have designed a 2D Pixel-Art platformer where the player moves downward. 
 
 Made in UE5 with the PaperZD Plugin
 
