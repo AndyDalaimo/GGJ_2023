@@ -5,7 +5,7 @@ Burrow is a vertical platformer made for 2023 GGJ. With a theme of "Roots", we h
 
 Made in UE5 with the PaperZD Plugin
 
-Itch.io link
+itch.io link
 https://andydalaimo.itch.io/burrow
 
 Art by Birgithe Runde
